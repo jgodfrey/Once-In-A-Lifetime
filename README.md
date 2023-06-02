@@ -1,5 +1,5 @@
 # Once-In-A-Lifetime
-An old, Tcl/Tk version of the solitaire game Once In a Lifetime
+A very old, Tcl/Tk version of the solitaire game Once In a Lifetime. Dropping here for safekeeping.
 
 See here for some history and discussion:
 
